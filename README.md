@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerald402
-- 👀 I’m interested in ...learning python programming
-- 🌱 I’m currently learning ...python 
+- 👀 I’m interested in ...learning cyber security
+- 🌱 I’m currently learning ...cyber security
 - 💞️ I’m looking to collaborate on ...meeting new people wolrd wide to share experience and connect together 
 - 📫 How to reach me ...geraldabia63@gmail.com OR +2349049466543 whatsapp
 - 😄 Pronouns: ...
